@@ -1,4 +1,4 @@
-### Hello / Bienvenue / Namaste / Vannakam 
+### Hello / வணக்கம் / नमस्ते / Salut!
 
 <!-- **hexomicron/hexOmicron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
