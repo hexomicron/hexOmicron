@@ -9,7 +9,7 @@
  **omicron**  &ensp; _n._ Greek alphabet for O. 
 
     
-- 🔭 I’m currently working on ... a personal project and a 2D platformer in Unity
+- 🔭 I’m currently working on ... a personal project and diving into the world of 3D
 - 🌱 I’m currently learning ... everything
 
 
