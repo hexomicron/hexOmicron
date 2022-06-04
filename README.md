@@ -14,11 +14,11 @@
 
 
 
-[![stuff I code with](https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact&custom_title=i-code-with&show_icon=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![stuff I code with](https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact&custom_title=i code with&show_icon=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![hexomicron's stats](https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![hexomicron's stats](https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true&include_all_commits=true&custom_title=hexomicron's stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 <a href="https://github.com/hexomicron/open-cs-course">
