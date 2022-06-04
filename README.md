@@ -10,9 +10,9 @@
 
     
 - 🔭 I’m currently working on ... a personal project and diving into the world of 3D
-- 🌱 I’m currently learning ... everything
+- 🌱 I’m currently learning ... <under wraps>
 
-
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact&custom_title=i%20code%20with%0A&show_icon=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true" />
