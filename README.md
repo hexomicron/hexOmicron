@@ -10,7 +10,7 @@
 
     
 - 🔭 I’m currently working on ... a personal project and diving into the world of 3D
-- 🌱 I’m currently learning ... <under wraps>
+- 🌱 I’m currently learning ... \<under wraps\>
 
 ---
 
