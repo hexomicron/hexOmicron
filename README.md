@@ -13,7 +13,11 @@
 - 🌱 I’m currently learning ... everything
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![stuff I code with](https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact&custom_title=stuff I code with)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![hexomicron's stats](https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&title_color=#caffed&text_color=#476969&icon_color=#7fffd4&bg_color=#00000)
 
 <!---
 <a href="https://github.com/hexomicron/open-cs-course">
