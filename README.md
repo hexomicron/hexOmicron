@@ -15,9 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/hexomicron/hex-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hexomicron&repo=hex-website" />
-</a>
+<!---
 <a href="https://github.com/hexomicron/open-cs-course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hexomicron&repo=open-cs-course" />
-</a>
+</a> --->
