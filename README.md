@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning ... everything
 
 
-[![stuff I code with](https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact&custom_title=stuff I code with)](https://github.com/anuraghazra/github-readme-stats)
+![stuff I code with](https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact&custom_title=stuff I code with)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
