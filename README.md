@@ -18,7 +18,7 @@
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ps,vscode,c,cpp,py,js,html,css,bootstrap,git,latex,md&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ps,vscode,c,cpp,py,js,html,css,bootstrap,git,latex,md&perline=15&theme=dark)](https://skillicons.dev)
 
 <br>
 
