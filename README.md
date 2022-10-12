@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on ... a personal project and diving into the world of 3D
 - 🌱 I’m currently learning ... \<under wraps\>
 
-[![Generic badge](https://img.shields.io/badge/<status>-<active>-<aqua>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/status-active-7fffd4.svg)](https://shields.io/)
 
 ---
 
