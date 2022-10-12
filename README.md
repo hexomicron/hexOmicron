@@ -12,13 +12,18 @@
 - 🔭 I’m currently working on ... a personal project and diving into the world of 3D
 - 🌱 I’m currently learning ... \<under wraps\>
 
+<br>
+
 [![Generic badge](https://img.shields.io/badge/status-active-7fffd4.svg)](https://shields.io/)
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ps,vscode,c,cpp,py,js,html,css,bootstrap,git,latex,md&perline=15&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ps,vscode,c,cpp,py,js,html,css,bootstrap,git,latex,md&perline=15&theme=dark)](https://skillicons.dev)
 
-Exploring/Extras: <br> 
+<br>
+
+
+#### Exploring/Extras: <br> 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
