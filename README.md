@@ -16,15 +16,18 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ps,vscode,c,cpp,py,js,html,css,git,latex,md&perline=6&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ps,vscode,c,cpp,py,js,html,css,bootstrap,git,latex,md&perline=6&theme=dark)](https://skillicons.dev)
 
-Learning: <br> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+Learning: <br> 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=black) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-
+<!---
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=7fffd4&height=300&section=header&text=hexomicron%20&animation=fadeIn&fontColor=7fffd4&fontSize=48)
 
-<!--- &color=0:7fffd4,100:a82da8 ---->
+&color=0:7fffd4,100:a82da8 ---->
 
 ---
 
