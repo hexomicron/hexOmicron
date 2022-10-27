@@ -90,7 +90,7 @@
 ---
 
 <a href="(https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true&include_all_commits=true&custom_title=hexomicron%27s%20stats&hide=stars,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true&include_all_commits=true&custom_title=hexomicron%27s%20stats&hide=stars,contribs"/>
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
