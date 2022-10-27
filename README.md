@@ -20,7 +20,7 @@
 - 📖  currently reading ... N/A
 
 
-<div style={color:aqua;}> 333 </div>
+
 
 <br>
 
