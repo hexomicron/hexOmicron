@@ -19,9 +19,9 @@
 - ♫   currently listening to ... Genghis Tron - Dream Weapon
 - 📖  currently reading ... N/A
 
-<img src="https://img.freepik.com/free-vector/control-panel-concept-illustration_114360-579.jpg" width=200 height=200>
+<
 
-
+   
 <br>
 
 ⚒ ⚔ ☠	✌
