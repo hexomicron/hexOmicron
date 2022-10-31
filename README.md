@@ -96,6 +96,11 @@
 
 ---
 
+ 
+ [![hxo](https://activity-graph.herokuapp.com/graph?username=hexomicron&theme=merko&custom_title=☠&hide_border=true&title_color=476969&color=476969&point=7FFFD4&line=797393)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <br>
+ 
 
 <a href="(https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&theme=high-contrast&title_color=B6F8E2&text_color=476969&icon_color=7FFFD4&bg_color=000000&hide_border=true&include_all_commits=true&custom_title=hexomicron%27s%20stats&hide=stars"/>
