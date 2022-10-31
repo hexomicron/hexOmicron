@@ -23,7 +23,6 @@
  - 🌱  currently learning ... \<under wraps\>
  - ♫   currently listening to ... Genghis Tron - Dream Weapon
  - 📖  currently reading ... N/A
- 
 </code>
 
 <br>   
@@ -34,7 +33,7 @@
 
 <br>
 
-[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)](https://shields.io/)<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-gas-16.png">
+[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)](https://shields.io/)<img src="https://img.icons8.com/color/48/000000/gas.png"/>
 
 ---
 
