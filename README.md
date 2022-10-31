@@ -36,28 +36,20 @@
 
 ---
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,ai,ps,vscode,c,cpp,py,js,html,css,bootstrap,git,latex,md&perline=15&theme=dark)](https://skillicons.dev)
--->
 
+ <div class="row">
+  <div class="column">
+   <details> <summary> ⚒ <code> design </code> </summary>  <br> &ensp;&ensp; <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"alt="Adobe Illustrator"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+   </details>
+  </div>
+  <div class="column">
+   <details> <summary> ⚔ <code> code </code> </summary>  <br>  &ensp;&ensp; <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"alt="Python"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"alt="C++"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/> 
+   </details>
+  </div>
+</div> 
 
-<!-- copy  ----  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ---->
-
-
-
-
-
-
-<details> <summary> ⚒ <code> design </code> </summary>  <br> &ensp;&ensp; <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"alt="Adobe Illustrator"/> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</details>
- 
- 
-#### `code` &ensp;&ensp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-
-#### `tools` &ensp;&ensp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-
+ <details> <summary> ☠ <code> tools </code> </summary> &ensp;&ensp; <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"alt="Visual Studio Code"/> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"alt="Git"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"alt="Windows Terminal"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"alt="Markdown"/> <img stc="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/> 
+ </details>
 
 #### `exploring/extras:` <br> 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -78,10 +70,6 @@
 
 
 
-<!---
-![header](https://capsule-render.vercel.app/api?type=transparent&color=7fffd4&height=300&section=header&text=hexomicron%20&animation=fadeIn&fontColor=7fffd4&fontSize=48)
-
-&color=0:7fffd4,100:a82da8 ---->
 
 ---
 
@@ -92,25 +80,9 @@
 
  <img src="https://komarev.com/ghpvc/?username=hexomicron&label=Profile%20views&color=476969&style=flat" alt="hexomicron" /> 
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact&custom_title=i%20code%20with%0A&show_icon=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true" />
-</a>
- --->
+
 
 <!---
-
-
-[![stuff I code with](https://github-readme-stats.vercel.app/api/top-langs/?username=hexomicron&layout=compact&custom_title=i%20code%20with%0A&show_icon=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
-[![hexomicron's stats](https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true&include_all_commits=true&custom_title=hexomicron%27s%20stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
---->
-
-<!---
-<a href="https://github.com/hexomicron/open-cs-course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hexomicron&repo=open-cs-course" />
+<a href="https://github.com/hexomicron/open-creative-tech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hexomicron&repo=open-creative-tech" />
 </a> --->
