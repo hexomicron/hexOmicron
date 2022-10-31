@@ -16,13 +16,15 @@
 
 <br>
 <br>
-    
+
+<code>
+
 - 🔭   currently working on ... a personal project and diving into the world of 3D
 - 🌱  currently learning ... \<under wraps\>
 - ♫   currently listening to ... Genghis Tron - Dream Weapon
 - 📖  currently reading ... N/A
-
-<
+ 
+ </code>
 
    
 <br>
