@@ -12,6 +12,7 @@
 
 #### hexOmicron
  
+ 
  **hex** &ensp;  &ensp;  &ensp;  &ensp; _n._ short for hexadecimal. &ensp; _v._ to cast a spell.
 <br>
  **omicron**  &ensp; _n._ Greek alphabet for O. 
@@ -19,10 +20,10 @@
 <br>
 <br>
 
-```html
- 
- - 🔭   currently working on ... a personal project and diving into <br> the world of 3D
- - 🌱  currently learning ... \<under wraps\>
+```markdown
+ - 🔭   currently working on ... A Personal Project &&
+       Diving into the World of [3D]
+ - 🌱  currently learning ... </under wraps>
  - ♫   currently listening to ... Genghis Tron - Dream Weapon
  - 📖  currently reading ... N/A
 ``` 
