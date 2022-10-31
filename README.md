@@ -18,10 +18,12 @@
 <br>
 
 <code>
+ 
  - 🔭   currently working on ... a personal project and diving into the world of 3D
  - 🌱  currently learning ... \<under wraps\>
  - ♫   currently listening to ... Genghis Tron - Dream Weapon
  - 📖  currently reading ... N/A
+ 
 </code>
 
 <br>   
@@ -32,7 +34,7 @@
 
 <br>
 
-[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-gas-16.png">](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)]<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-gas-16.png">(https://shields.io/)
 
 ---
 
