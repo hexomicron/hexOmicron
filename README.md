@@ -1,12 +1,12 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=6CF792&vCenter=true&width=435&lines=Hello+there!+; ..%20.----.%20--%20/%20.-..%20.- --.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=7FFFD4&vCenter=true&width=435&lines=Hello+there!+; ..%20.----.%20--%20/%20.-..%20.- --.." alt="Typing SVG" /></a>
 
 
 
 
 <!--  வணக்கம்  नमस्ते  Salut! -->
 
-<!-- **hexomicron/hexOmicron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **hexomicron/hexOmicron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 6CF792 -->
 
 #### hexOmicron
  
@@ -32,7 +32,7 @@
 
 <br>
 
-[![Generic badge](https://img.shields.io/badge/status-active-7fffd4.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)](https://shields.io/)
 
 ---
 
@@ -78,7 +78,7 @@
 
 
 <a href="(https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&theme=high-contrast&title_color=b6f8e2&text_color=476969&icon_color=7fffd4&bg_color=000000&hide_border=true&include_all_commits=true&custom_title=hexomicron%27s%20stats&hide=stars"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexomicron&count_private=true&show_icons=true&theme=high-contrast&title_color=B6F8E2&text_color=476969&icon_color=7FFFD4&bg_color=000000&hide_border=true&include_all_commits=true&custom_title=hexomicron%27s%20stats&hide=stars"/>
 </a>
 
  <img src="https://komarev.com/ghpvc/?username=hexomicron&label=Profile%20views&color=476969&style=flat" alt="hexomicron" /> 
