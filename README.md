@@ -34,7 +34,7 @@
 
 <br>
 
-[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)]<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-gas-16.png">(https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)](https://shields.io/)<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-gas-16.png">
 
 ---
 
