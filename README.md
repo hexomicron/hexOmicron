@@ -33,7 +33,7 @@
 
 <br>
 
-[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)](https://shields.io/) <img src="/assets/innerfire.svg" width="16" height="16">
+[![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)](https://shields.io/) <img src="/assets/innerfire.svg" width="21" height="21">
 
  
 ---
