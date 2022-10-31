@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=6CF792&vCenter=true&width=435&lines=Hello+there!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=6CF792&vCenter=true&width=435&lines=Hello+there!+; ...%20..." alt="Typing SVG" /></a>
 
 <!--  வணக்கம்  नमस्ते  Salut! -->
 
