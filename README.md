@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=7FFFD4&vCenter=true&width=435&lines=Hello+there!+; ..%20.----.%20--%20/%20.-..%20.- --.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=7FFFD4&vCenter=true&width=435&lines=Hello+there!+; .. .----. -- / .-.. .- --.." alt="Typing SVG" /></a>
 
 
 
@@ -22,7 +22,7 @@
 
 ```markdown
  - 🔭   currently working on ... A Personal Project &&
-       Diving into the World of [3D]
+        Diving into the World of [3D]
  - 🌱  currently learning ... </under wraps>
  - ♫   currently listening to ... Genghis Tron - Dream Weapon
  - 📖  currently reading ... N/A
