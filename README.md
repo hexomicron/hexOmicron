@@ -1,10 +1,9 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=7FFFD4&vCenter=true&width=435&lines=Hello+there!+; .. .----. -- / .-.. .- --.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=7FFFD4&vCenter=true&width=435&lines=Hello+there!+;.... . .-.. .-.. --- / - .... . .-. . -.-.--+; .. .----. -- / .-.. .- --..+;" alt="Typing SVG" /></a>
 
 
 
 
-<!--  வணக்கம்  नमस्ते  Salut! -->
 
 <!-- **hexomicron/hexOmicron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 6CF792 -->
 
@@ -22,21 +21,25 @@
 
 ```markdown
  - 🔭   currently working on ... A Personal Project &&
-        Diving into the World of [3D]
+       Diving into the World of [3D]
  - 🌱  currently learning ... </under wraps>
  - ♫   currently listening to ... Genghis Tron - Dream Weapon
  - 📖  currently reading ... N/A
 ``` 
 
- 
-
-<br>   
 <br>
+<br>
+
+
+<p align=right>
+ <sup> 01100011 01101111 01101110 01110100 01100001 01100011 <br> 01110100 00100000 01101101 01100101 00100000 01100001 <br> 01110100 00100000 
+01101000 01100101 01111000 01101111 <br> 01101101 01101001 01100011 01110010 01101111 01101110 <br> 00110011 00110011 00110011 01000000 01100111 01101101 <br> 01100001 01101001 01101100 00101110 01100011 01101111 <br> 01101101 </sup>
+</p>
+
 
 ⚒ ⚔ ☠	✌
 
 
-<br>
 
 [![Generic badge](https://img.shields.io/badge/status-active-7FFFD4.svg)](https://shields.io/) <img src="/assets/innerfire.svg" width="21" height="21">
 
@@ -53,7 +56,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
    </details>
   </div>
-  <div class="column">
+  <p align=right>
    <details> <summary> ⚔ <code> code </code> </summary>  <br>  &ensp;&ensp; 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"alt="Python"/> 
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
@@ -63,7 +66,7 @@
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript"/> 
    </details>
-  </div>
+  </p>
 </div> 
 
  <details> <summary> ☠ <code> tools </code> </summary> <br>  &ensp;&ensp; 
