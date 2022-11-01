@@ -8,6 +8,7 @@
 <!-- **hexomicron/hexOmicron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 6CF792 -->
 
 <img src="https://media.tenor.com/RvTdiWcK6lYAAAAC/aesthetic-cyber.gif" align="right" width=333 height=333/>
+<br>
 
 #### hexOmicron
  
@@ -27,6 +28,7 @@
  - 📖  currently reading ... N/A
 ``` 
 
+<br>
 <br>
 <br>
 
