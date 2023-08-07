@@ -109,7 +109,7 @@
 
 ---
 
-[![hxo](https://github-readme-activity-graph.vercel.app/graph?username=hexomicron&custom_title=☠&hide_border=true&title_color=476969&color=476969&point=7FFFD4&line=797393)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hxo](https://github-readme-activity-graph.vercel.app/graph?username=hexomicron&custom_title=☠&hide_border=true&title_color=476969&color=476969&point=7FFFD4&line=797393&bg_color=000000&height=350)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
  
