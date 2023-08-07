@@ -109,8 +109,9 @@
 
 ---
 
+[![hxo](https://github-readme-activity-graph.vercel.app/graph?username=hexomicroncustom_title=☠&hide_border=true&title_color=476969&color=476969&point=7FFFD4&line=797393)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- [![hxo](https://activity-graph.herokuapp.com/graph?username=hexomicron&theme=merko&custom_title=☠&hide_border=true&title_color=476969&color=476969&point=7FFFD4&line=797393)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
  
 <a href="(https://github.com/anuraghazra/github-readme-stats">
