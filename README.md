@@ -15,7 +15,7 @@
  
  **hex** &ensp;  &ensp;  &ensp;  &ensp; _n._ short for hexadecimal. &ensp; _v._ to cast a spell.
 <br>
- **omicron**  &ensp; _n._ Greek alphabet for O. 
+ **omicron**  &ensp; _n._ Greek alphabet for o. 
 
 <br>
 <br>
